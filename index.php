@@ -34,7 +34,7 @@
 					<input type="submit" name="generate" Value="Generate Password"/>
 
 					<!--Password including php-->
-					<h2>Password:<br><?php echo @($password); ?></h2>
+					<h2>Password<br><?php echo @($password); ?></h2>
 				</div>
 				</form>
 				<h3><a href="https://xkcd.com/936/">xkcd Comic</a></h3>

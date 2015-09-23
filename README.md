@@ -1,41 +1,28 @@
 #Project 2
-<hr>
-<br>
-
 
 #xkcd Password Generator 
-<hr>
 
 #Live URL
-<hr>
-
-###[https://github.com/aakanshasaharan/p2](https://github.com/aakanshasaharan/p2)
-<br> 
+[https://github.com/aakanshasaharan/p2](https://github.com/aakanshasaharan/p2)
 
 #Description:
-<hr>
-<b><p>This project provides a simple utility for generating <em>xkcd style password.</em></p></b>
-<br>
-
+This project provides a simple utility for generating xkcd style password.
 
 #Demo
-<hr>
-URL: 
-
+URL: [http://www.screencast.com/t/0zSYxR4E](http://www.screencast.com/t/0zSYxR4E)
 
 #Details for teaching team
-<hr>
-<b><p> No login required.</p>
-<p>This project is consists of:<br>
-1. index.php which requires logic.php <br>
-2. One folder of images.<br> 
-3. README.md<br>
-4. custom.css<br></p></b>
-<br>
+No login Required.
+This project is consists of:<br>
+1. index.php (requires logic.php) <br>
+2. logic.php<br>
+3. password.css<br>
+4. README.md<br>
+
+
 
 #Outside Code
-<hr>
-###Word list: [http://www.enchantedlearning.com/wordlist/](http://www.enchantedlearning.com/wordlist/)
+No outside code has been used in this work.
 
 
 
