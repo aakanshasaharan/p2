@@ -5,6 +5,9 @@
 #Live URL
 [https://github.com/aakanshasaharan/p2](https://github.com/aakanshasaharan/p2)
 
+#live URL Domain
+[http://p2.aakanshasaharan.com](http://p2.aakanshasaharan.com)
+
 #Description:
 This project provides a simple utility for generating xkcd style password.
 
